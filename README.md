@@ -98,7 +98,7 @@ Here are all of the functions I think I will need:
   - print the 'append...?' line
 - csv file functions
   - find the value in the last record of the csv file
-  - check if the file exists in the same directory as the program
+  - check if the file exists in the parent directory as the program (dont want it in src!)
   - append the rp and date/time fields to the csv file
 - time functions
   - raw milliseconds / timestamp
